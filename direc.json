@@ -1,0 +1,29 @@
+{
+  "direcs": [
+    {
+      "name": "dir1",
+      "url": "./abc/Directories/images/"
+      
+      
+    },
+    {
+      "name": "dir2",
+      "url": "./abc/Directories/jsonfiles/"
+      
+      
+    },
+    {
+      "name": "dir3",
+      "url": "./abc/Directories/textfiles/"
+      
+      
+    },
+    {
+      "name": "dir4",
+      "url": "./abc/Directories/examplefile.txt/"
+      
+      
+    }	
+	
+  ]
+}
